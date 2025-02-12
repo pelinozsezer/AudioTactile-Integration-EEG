@@ -24,6 +24,15 @@ This project investigated **audiotactile integration** in a **cocktail-party env
 
 ---
 
+## 📊 Results & Findings
+- EEG analysis suggested that the **audiotactile (AT) cocktail condition** had the highest correlation between stimulus reconstruction and original auditory features, while the **tactile-only (T) condition** had the lowest correlation values.
+- **Independent t-tests** confirmed significant differences in correlation values across conditions (`T`, `A cocktail`, and `AT cocktail`).
+- **Higher-pitched melodies** showed slightly better reconstruction accuracy than lower-pitched melodies.
+- Results supported **bottom-up audiotactile integration**, showing enhanced auditory stimulus encoding when paired with corresponding tactile stimuli.
+
+
+
+
 
 
 
