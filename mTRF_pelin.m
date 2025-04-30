@@ -163,7 +163,7 @@ for condition = [1 5 6]
         cfg.trials     = mask; 
         [data_condres] = ft_selectdata(cfg, data_condres);
 
-        %% Redifine trl
+        %% Redefine trl
         cfg        = [];
         cfg.trials = 'all';
         cfg.toilim = [0 length_stim];
